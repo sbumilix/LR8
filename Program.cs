@@ -39,7 +39,7 @@ namespace ConsoleApp2
 
             }
 
-            set // присвоение значения элементу массива
+            set // коты любят молоко
             {
                 if (ok(row, col))
                 {
