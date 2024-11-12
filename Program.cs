@@ -69,6 +69,9 @@ namespace ConsoleApp2
             }
         }
 
+        public void murmur() {
+        }
+
         // вывод матрицы на экран
         public void output()
         {
