@@ -69,6 +69,10 @@ namespace ConsoleApp2
             }
         }
 
+        public void myau() {
+            Console.Write("Мяу");
+        }
+
         // вывод матрицы на экран
         public void output()
         {
