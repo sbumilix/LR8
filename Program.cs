@@ -14,10 +14,10 @@ namespace ConsoleApp2
         protected int cols;
 
         //конструктор
-        public Matrix(int rows, int cols)
+        public Matrix(int rows, int colss)
         {
             this.rows = rows;
-            this.cols = cols;
+            this.cols = colss;
             arr = new int[rows, cols];
         }
 
