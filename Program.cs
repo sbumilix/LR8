@@ -57,6 +57,11 @@ namespace ConsoleApp2
             else return false;
         }
 
+        public void b()
+        {
+
+        }
+
         // ввода матрицы с клавиатуры
         public void input()
         {
