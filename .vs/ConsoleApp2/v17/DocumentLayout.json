@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\LR8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32850C7A-612D-42CE-A6FE-667D40EAFB0C}|ConsoleApp2.csproj|c:\\users\\79190\\desktop\\5 \u0441\u0435\u043C\\\u043F\u0438\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32850C7A-612D-42CE-A6FE-667D40EAFB0C}|ConsoleApp2.csproj|c:\\users\\79190\\desktop\\5 \u0441\u0435\u043C\\\u043F\u0438\\lr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32850C7A-612D-42CE-A6FE-667D40EAFB0C}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\LR8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwKoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\79190\\Desktop\\5 \u0441\u0435\u043C\\\u041F\u0418\\LR8\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T17:27:12.281Z",
               "EditorCaption": ""
