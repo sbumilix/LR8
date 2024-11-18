@@ -2,8 +2,8 @@
 using System;
 using System.Reflection;
 // Console.WriteLine("Hello, World!");
-
-
+ 
+// новый комментарий
 namespace ConsoleApp2
 {
     class Matrix
@@ -14,10 +14,10 @@ namespace ConsoleApp2
         protected int cols;
 
         //конструктор
-        public Matrix(int rows, int colss)
+        public Matrix(int rows, int cols)
         {
             this.rows = rows;
-            this.cols = colss;
+            this.cols = cols;
             arr = new int[rows, cols];
         }
 
@@ -39,7 +39,7 @@ namespace ConsoleApp2
 
             }
 
-            set // коты любят молоко
+            set // присвоение значения элементу массива
             {
                 if (ok(row, col))
                 {
@@ -57,11 +57,6 @@ namespace ConsoleApp2
             else return false;
         }
 
-        public void b()
-        {
-
-        }
-
         // ввода матрицы с клавиатуры
         public void input()
         {
@@ -72,13 +67,6 @@ namespace ConsoleApp2
                     arr[i, j] = int.Parse(Console.ReadLine());
                 }
             }
-        }
-
-        public void myau() {
-            Console.Write("Мяу");
-        }
-
-        public void murmur() {
         }
 
         // вывод матрицы на экран
